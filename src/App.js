@@ -22,12 +22,13 @@ toast("this is my first Message" ,{position:'bottom-center'});
     <div className="App">
    <Router>
    <ToastContainer/>
+   
    <Container>
      <Header/>
      <Row>
        <Col md={4}>
          <Menus/>
-        <h2>This is meneu side</h2>
+        <h2>This is Menu side</h2>
          </Col>
      <Col md={8}>
       <Card>
